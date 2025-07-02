@@ -23,4 +23,6 @@ The game challenges your memory by showing a sequence of colors that you must re
 ## Acknowledgements 🙌
 🔹This project was inspired by the classic Simon memory game
 
+## Output Preview is given in image 
+
 If you like this project, please ⭐️ star the repo — it really helps and motivates me!
